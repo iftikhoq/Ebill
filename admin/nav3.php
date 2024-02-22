@@ -44,7 +44,7 @@
         color: rgb(255, 255, 255);
         font-size: 20px;
         font-weight: bold;
-        padding: 15px 15px;
+        padding: 5px 5px;
         border-radius: 5px;
         text-decoration: none;
     }
